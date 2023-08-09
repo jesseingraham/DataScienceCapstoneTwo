@@ -2,8 +2,9 @@
 A project for exploring predictive models for electric motor temperatures and torque.
 
 ## File Strucutre
-- **notebooks/** contains jupyter notebooks following the data science method
-- **presentations/** contains a PDF project overview
+- **README_files/** contains the images shown in this README file.
+- **notebooks/** contains jupyter notebooks following the data science method.
+- **presentations/** contains a PDF project overview.
 - **reports/** contains a PDF report summarizing the process in the notebooks and a text file describing the final models.
 
 ## Problem Overview
